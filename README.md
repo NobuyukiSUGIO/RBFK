@@ -1,7 +1,7 @@
 These are supplementally files for "Full-round attacks on the lightweight block cipher RBFK"
 
 1. sbox
- 1.1 main_differential_probability_sbox.c \n
+ 1.1 main_differential_probability_sbox.c
  1.2 main_linear_probability_sbox.c
  These files are used to calculate DP or LP for S-box.
  They are written by c.
