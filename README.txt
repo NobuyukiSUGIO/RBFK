@@ -10,7 +10,7 @@ These are supplementally files for "Full-round attacks on the lightweight block 
  2.1 Rbfk_DCP_functions.py
  2.2 Rbfk_lp.py
   These two files are used to generate lp-file for gurobi.
-  When you execute "Rbfk_lp.py", the lp-file named "rbfk.lp" is generated.
+  When  execute "Rbfk_lp.py", the lp-file named "rbfk.lp" is generated.
  2.3 main.py
  2.4 rbfk.py
   These two files are used to execute "rbfk.lp".
