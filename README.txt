@@ -1,4 +1,4 @@
-These are supplementally files for "Full-round attacks on the lightweight block cipher RBFK"
+These are supplementally files for "Differential, Linear and Meet-in-the-middle attacks on the lightweight block cipher RBFK"
 
 1. sbox
  1.1 main_differential_probability_sbox.c
